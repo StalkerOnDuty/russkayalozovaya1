@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
-    <ID>3</ID>
+    <ID>7</ID>
     <ObjectName>Русская Лозовая 1</ObjectName>
     <Server>http://stalker.megadevices.com.ua/add_log.php</Server>
     <APN>www.mts.ua</APN>
