@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Duty>
-	<StartTime>08:00:00</StartTime>
-	<FinishTime>07:00:00</FinishTime>
-	<RoundPeriod>00:40:00</RoundPeriod>
+	<StartTime>09:00:00</StartTime>
+	<FinishTime>06:00:00</FinishTime>
+	<RoundPeriod>00:50:00</RoundPeriod>
 	<RoundDelay>00:15:00</RoundDelay>
-	<MinPresenceControlInterval>00:15:00</MinPresenceControlInterval>
-	<MaxPresenceControlInterval>00:20:00</MaxPresenceControlInterval>
+	<MinPresenceControlInterval>00:20:00</MinPresenceControlInterval>
+	<MaxPresenceControlInterval>00:25:00</MaxPresenceControlInterval>
 	<PresenceControlReactionTime>00:00:59</PresenceControlReactionTime>
 	<NFCPoints>
 		<Point>
