@@ -2,7 +2,7 @@
 <Configuration>
     <ID>7</ID>
     <ObjectName>Русская Лозовая 1</ObjectName>
-    <Server>http://stalker.megadevices.com.ua/add_log.php</Server>
+    <Server>http://priborohrani.dyndns.org:8080/logs</Server>
     <APN>www.mts.ua</APN>
     <MasterToken>6B4F69ED</MasterToken>
     <PhoneBook>
