@@ -12,8 +12,8 @@
     <SaveLogcatLogs>true</SaveLogcatLogs>
     <SendSMSAfterServicesFail>false</SendSMSAfterServicesFail>
     <UpdateTime>00:00</UpdateTime>
-    <UpdateInterval>10</UpdateInterval>
-    <LogUploadingInterval>10</LogUploadingInterval>
+    <UpdateInterval>55</UpdateInterval>
+    <LogUploadingInterval>55</LogUploadingInterval>
     <USSDTime>23:19</USSDTime>
     <USSDString>*101#</USSDString>
 </Configuration>
